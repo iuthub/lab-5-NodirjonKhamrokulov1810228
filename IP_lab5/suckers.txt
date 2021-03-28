@@ -1,0 +1,6 @@
+Martin;IP;123123123(Visa)
+Alex;CN;456456456(MasterCard)
+Hary;PaS;789789789(MasterCard)
+Gloria;IBA;4564564565698(Visa)
+Samir;DB;4564564554566(MasterCard)
+Samir;UP;4564564554566(Visa)
